@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/609/trunk/test/src/test/invokedmethodlistener
+END
+InvokedMethodListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/609/trunk/test/src/test/invokedmethodlistener/InvokedMethodListenerTest.java
+END
+Failure.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/607/trunk/test/src/test/invokedmethodlistener/Failure.java
+END
+Success.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/607/trunk/test/src/test/invokedmethodlistener/Success.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/607/trunk/test/src/test/invokedmethodlistener/Base.java
+END
+MyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/607/trunk/test/src/test/invokedmethodlistener/MyListener.java
+END

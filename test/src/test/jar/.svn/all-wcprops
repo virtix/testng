@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/793/trunk/test/src/test/jar
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/604/trunk/test/src/test/jar/build
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/604/trunk/test/src/test/jar/A.java
+END
+testng-override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/716/trunk/test/src/test/jar/testng-override.xml
+END
+B.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/604/trunk/test/src/test/jar/B.java
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/607/trunk/test/src/test/jar/testng.xml
+END
+withouttestngxml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/607/trunk/test/src/test/jar/withouttestngxml.jar
+END
+JarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/793/trunk/test/src/test/jar/JarTest.java
+END
+withtestngxml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/607/trunk/test/src/test/jar/withtestngxml.jar
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/trunk/maven/plugin-resources
+END
+junitRpt.jsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/trunk/maven/plugin-resources/junitRpt.jsl
+END
+junitRpt-failed.jsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/trunk/maven/plugin-resources/junitRpt-failed.jsl
+END

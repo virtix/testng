@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/608/trunk/test/src/test/jar/test/jar
+END
+A.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/608/trunk/test/src/test/jar/test/jar/A.class
+END
+B.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/608/trunk/test/src/test/jar/test/jar/B.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/108/trunk/test/src/test/testng106
+END
+Test1.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/108/trunk/test/src/test/testng106/Test1.java
+END
+Test2.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/108/trunk/test/src/test/testng106/Test2.java
+END
+testng-106.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/108/trunk/test/src/test/testng106/testng-106.xml
+END
+FailingSuiteFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/108/trunk/test/src/test/testng106/FailingSuiteFixture.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/648/trunk/test/src/test/testng285
+END
+Derived.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/648/trunk/test/src/test/testng285/Derived.java
+END
+TestNG285Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/648/trunk/test/src/test/testng285/TestNG285Test.java
+END
+BugBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/648/trunk/test/src/test/testng285/BugBase.java
+END

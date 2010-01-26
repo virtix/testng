@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/607/trunk/test/src/test/methodinterceptors
+END
+MethodInterceptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/607/trunk/test/src/test/methodinterceptors/MethodInterceptorTest.java
+END
+FooTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/556/trunk/test/src/test/methodinterceptors/FooTest.java
+END
+FastTestsFirstInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/561/trunk/test/src/test/methodinterceptors/FastTestsFirstInterceptor.java
+END
+NullMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/556/trunk/test/src/test/methodinterceptors/NullMethodInterceptor.java
+END

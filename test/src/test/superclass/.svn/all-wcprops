@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/692/trunk/test/src/test/superclass
+END
+BaseSampleTest3.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/superclass/BaseSampleTest3.java
+END
+Test3.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/trunk/test/src/test/superclass/Test3.java
+END
+Child1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/superclass/Child1Test.java
+END
+MainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/superclass/MainTest.java
+END
+Child2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/superclass/Child2Test.java
+END
+ChildSampleTest3.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/692/trunk/test/src/test/superclass/ChildSampleTest3.java
+END
+Base1.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/trunk/test/src/test/superclass/Base1.java
+END
+Base2.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/trunk/test/src/test/superclass/Base2.java
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/692/trunk/test/src/test/dependent
+END
+ImplicitGroupInclusion2SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ImplicitGroupInclusion2SampleTest.java
+END
+ClassWide2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ClassWide2Test.java
+END
+ImplicitGroupInclusion4SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ImplicitGroupInclusion4SampleTest.java
+END
+ClassDependsOnGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ClassDependsOnGroups.java
+END
+DependentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DependentTest.java
+END
+BaseOrderMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/test/src/test/dependent/BaseOrderMethodTest.java
+END
+MultiGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/test/src/test/dependent/MultiGroupTest.java
+END
+MissingMethodSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/673/trunk/test/src/test/dependent/MissingMethodSampleTest.java
+END
+DifferentClassDependsOnGroupsTest1.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DifferentClassDependsOnGroupsTest1.java
+END
+ImplicitGroupInclusionSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ImplicitGroupInclusionSampleTest.java
+END
+SampleDependentMethods2.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/test/src/test/dependent/SampleDependentMethods2.java
+END
+SampleDependentMethods4.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/692/trunk/test/src/test/dependent/SampleDependentMethods4.java
+END
+SampleDependentMethods6.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/test/src/test/dependent/SampleDependentMethods6.java
+END
+SampleDependentConfigurationMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/28/trunk/test/src/test/dependent/SampleDependentConfigurationMethods.java
+END
+MissingGroupSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/672/trunk/test/src/test/dependent/MissingGroupSampleTest.java
+END
+SampleDependent1.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/692/trunk/test/src/test/dependent/SampleDependent1.java
+END
+DependsOnProtectedMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/343/trunk/test/src/test/dependent/DependsOnProtectedMethodTest.java
+END
+DepBugVerifyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DepBugVerifyTest.java
+END
+MultiGroup2SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/test/src/test/dependent/MultiGroup2SampleTest.java
+END
+DependentOnMethod1AlwaysRunSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DependentOnMethod1AlwaysRunSampleTest.java
+END
+ClassWide1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ClassWide1Test.java
+END
+ImplicitGroupInclusion3SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ImplicitGroupInclusion3SampleTest.java
+END
+Test1.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/test/src/test/dependent/Test1.java
+END
+ImplicitMethodInclusionSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ImplicitMethodInclusionSampleTest.java
+END
+DepthDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DepthDependencyTest.java
+END
+DepBugSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DepBugSampleTest.java
+END
+DependentOnGroup1AlwaysRunSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DependentOnGroup1AlwaysRunSampleTest.java
+END
+DependentOnGroup2AlwaysRunSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DependentOnGroup2AlwaysRunSampleTest.java
+END
+MissingMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/673/trunk/test/src/test/dependent/MissingMethodTest.java
+END
+ImplicitGroupInclusionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/test/src/test/dependent/ImplicitGroupInclusionTest.java
+END
+DependentAlwaysRunTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DependentAlwaysRunTest.java
+END
+OrderMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/test/src/test/dependent/OrderMethodTest.java
+END
+DifferentClassDependsOnGroupsTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/dependent/DifferentClassDependsOnGroupsTest2.java
+END
+SampleDependentMethods3.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/test/src/test/dependent/SampleDependentMethods3.java
+END
+SampleDependentMethods5.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/test/src/test/dependent/SampleDependentMethods5.java
+END
+MissingGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/672/trunk/test/src/test/dependent/MissingGroupTest.java
+END
+MultiGroup1SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/test/src/test/dependent/MultiGroup1SampleTest.java
+END
+SampleDependentMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/trunk/test/src/test/dependent/SampleDependentMethods.java
+END

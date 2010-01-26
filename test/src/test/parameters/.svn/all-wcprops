@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/692/trunk/test/src/test/parameters
+END
+ParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/662/trunk/test/src/test/parameters/ParameterTest.java
+END
+ParameterSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/585/trunk/test/src/test/parameters/ParameterSample.java
+END
+BeforeSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/692/trunk/test/src/test/parameters/BeforeSampleTest.java
+END
+SuiteSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/parameters/SuiteSampleTest.java
+END

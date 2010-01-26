@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/trunk/test/src/test/inheritance
+END
+ClassScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/inheritance/ClassScopeTest.java
+END
+ZBase_0.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/inheritance/ZBase_0.java
+END
+Child_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/inheritance/Child_1.java
+END
+VerifyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/test/src/test/inheritance/VerifyTest.java
+END
+DChild_2.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/test/src/test/inheritance/DChild_2.java
+END
+BaseClassScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/inheritance/BaseClassScope.java
+END

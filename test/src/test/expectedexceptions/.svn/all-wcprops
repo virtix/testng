@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/712/trunk/test/src/test/expectedexceptions
+END
+ParametersExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/353/trunk/test/src/test/expectedexceptions/ParametersExceptionTest.java
+END
+WrappedExpectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/trunk/test/src/test/expectedexceptions/WrappedExpectedException.java
+END
+ExpectedExceptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/709/trunk/test/src/test/expectedexceptions/ExpectedExceptionsTest.java
+END
+SampleExceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/709/trunk/test/src/test/expectedexceptions/SampleExceptions.java
+END
+SampleExceptions2.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/712/trunk/test/src/test/expectedexceptions/SampleExceptions2.java
+END

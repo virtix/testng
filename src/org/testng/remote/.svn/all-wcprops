@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/833/trunk/src/org/testng/remote
+END
+RemoteSuiteWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/820/trunk/src/org/testng/remote/RemoteSuiteWorker.java
+END
+SuiteDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/833/trunk/src/org/testng/remote/SuiteDispatcher.java
+END
+RemoteTestNG.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/820/trunk/src/org/testng/remote/RemoteTestNG.java
+END
+SuiteSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/832/trunk/src/org/testng/remote/SuiteSlave.java
+END
+RemoteWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/820/trunk/src/org/testng/remote/RemoteWorker.java
+END
+ConnectionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/820/trunk/src/org/testng/remote/ConnectionInfo.java
+END

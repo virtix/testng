@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/637/trunk/test/src/test/regression
+END
+MyTestngTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/637/trunk/test/src/test/regression/MyTestngTest.java
+END
+BeforeTestFailingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/637/trunk/test/src/test/regression/BeforeTestFailingTest.java
+END
+MyTestngTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/637/trunk/test/src/test/regression/MyTestngTest2.java
+END

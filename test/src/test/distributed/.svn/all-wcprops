@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/434/trunk/test/src/test/distributed
+END
+Test1.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/trunk/test/src/test/distributed/Test1.java
+END
+Test2.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/trunk/test/src/test/distributed/Test2.java
+END
+DistributedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/434/trunk/test/src/test/distributed/DistributedTest.java
+END

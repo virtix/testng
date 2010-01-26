@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/trunk/test/src/test/junit
+END
+JUnitConstructorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/junit/JUnitConstructorTest.java
+END
+JUnitEmptyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/test/src/test/junit/JUnitEmptyTest.java
+END
+Suite1.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/Suite1.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/test/src/test/junit/BaseTest.java
+END
+Suite2.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/Suite2.java
+END
+Suite3.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/Suite3.java
+END
+Suite4.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/Suite4.java
+END
+SetUpExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/trunk/test/src/test/junit/SetUpExceptionTest.java
+END
+TestAa.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/TestAa.java
+END
+SetUpExceptionSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/test/src/test/junit/SetUpExceptionSampleTest.java
+END
+TestAb.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/TestAb.java
+END
+TestAc.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/TestAc.java
+END
+TestAd.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/TestAd.java
+END
+TestAe.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/TestAe.java
+END
+TestAf.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/trunk/test/src/test/junit/TestAf.java
+END
+SetNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/trunk/test/src/test/junit/SetNameTest.java
+END
+MainSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/test/src/test/junit/MainSuite.java
+END

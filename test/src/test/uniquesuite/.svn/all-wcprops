@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite
+END
+TestAfter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/TestAfter.java
+END
+TestAfter1.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/TestAfter1.java
+END
+TestAfter2.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/TestAfter2.java
+END
+TestBefore1.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/TestBefore1.java
+END
+TestBefore2.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/TestBefore2.java
+END
+BaseAfter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/BaseAfter.java
+END
+BaseBefore.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/test/src/test/uniquesuite/BaseBefore.java
+END

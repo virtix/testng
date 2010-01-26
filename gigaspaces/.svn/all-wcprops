@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/457/trunk/gigaspaces
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/444/trunk/gigaspaces/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/371/trunk/gigaspaces/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/387/trunk/gigaspaces/build.xml
+END

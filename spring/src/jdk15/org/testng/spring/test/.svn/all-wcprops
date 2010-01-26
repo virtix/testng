@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/327/trunk/spring/src/jdk15/org/testng/spring/test
+END
+AbstractSingleSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/321/trunk/spring/src/jdk15/org/testng/spring/test/AbstractSingleSpringContextTests.java
+END
+AbstractAnnotationAwareTransactionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/327/trunk/spring/src/jdk15/org/testng/spring/test/AbstractAnnotationAwareTransactionalTests.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/689/trunk/examples
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/593/trunk/examples/testng.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/trunk/examples/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/689/trunk/examples/build.xml
+END

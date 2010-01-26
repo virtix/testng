@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/321/trunk/spring/src/common/org/testng/spring/test
+END
+AbstractDependencyInjectionSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/320/trunk/spring/src/common/org/testng/spring/test/AbstractDependencyInjectionSpringContextTests.java
+END
+AbstractTransactionalSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/321/trunk/spring/src/common/org/testng/spring/test/AbstractTransactionalSpringContextTests.java
+END
+AbstractTransactionalDataSourceSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/320/trunk/spring/src/common/org/testng/spring/test/AbstractTransactionalDataSourceSpringContextTests.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/trunk/spring/src/common/org/testng/spring/test/package.html
+END
+AbstractSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/320/trunk/spring/src/common/org/testng/spring/test/AbstractSpringContextTests.java
+END

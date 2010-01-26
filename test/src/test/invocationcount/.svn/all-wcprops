@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount
+END
+DataProviderTrueFalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/DataProviderTrueFalseTest.java
+END
+DataProviderFalseTrueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/DataProviderFalseTrueTest.java
+END
+InvocationBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/InvocationBase.java
+END
+InvocationCountFalseFalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/InvocationCountFalseFalseTest.java
+END
+FailedInvocationCount2.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/513/trunk/test/src/test/invocationcount/FailedInvocationCount2.java
+END
+DataProviderFalseFalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/DataProviderFalseFalseTest.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/Base.java
+END
+FirstAndLastTimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/FirstAndLastTimeTest.java
+END
+DataProviderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/DataProviderBase.java
+END
+InvocationCountTrueTrueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/InvocationCountTrueTrueTest.java
+END
+DataProviderTrueTrueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/DataProviderTrueTrueTest.java
+END
+FailedInvocationCountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/513/trunk/test/src/test/invocationcount/FailedInvocationCountTest.java
+END
+FailedInvocationCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/513/trunk/test/src/test/invocationcount/FailedInvocationCount.java
+END
+InvocationCountTrueFalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/InvocationCountTrueFalseTest.java
+END
+InvocationCountFalseTrueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/src/test/invocationcount/InvocationCountFalseTrueTest.java
+END

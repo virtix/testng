@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/trunk/test/src/test/triangle
+END
+Child1.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/test/src/test/triangle/Child1.java
+END
+Child2.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/test/src/test/triangle/Child2.java
+END
+CheckCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/triangle/CheckCount.java
+END
+CountCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/triangle/CountCalls.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/trunk/test/src/test/triangle/Base.java
+END

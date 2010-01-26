@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/668/trunk/test/src/test/skipex
+END
+ConfigurationSkippedExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/415/trunk/test/src/test/skipex/ConfigurationSkippedExceptionTest.java
+END
+SkippedExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/668/trunk/test/src/test/skipex/SkippedExceptionTest.java
+END
+TestSkippedExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/431/trunk/test/src/test/skipex/TestSkippedExceptionTest.java
+END

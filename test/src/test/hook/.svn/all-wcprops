@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/651/trunk/test/src/test/hook
+END
+HookFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/test/src/test/hook/HookFailureTest.java
+END
+HookSuccessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/651/trunk/test/src/test/hook/HookSuccessTest.java
+END

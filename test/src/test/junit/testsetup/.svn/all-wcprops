@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup
+END
+LoggingTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup/LoggingTestSuite.java
+END
+ATest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup/ATest.java
+END
+LayerATestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup/LayerATestSuite.java
+END
+SmokeSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup/SmokeSuite.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup/Data.java
+END
+TestSuiteContainerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/test/src/test/junit/testsetup/TestSuiteContainerWrapper.java
+END

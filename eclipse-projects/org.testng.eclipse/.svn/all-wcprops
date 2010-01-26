@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/598/trunk/eclipse-projects/org.testng.eclipse
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/598/trunk/eclipse-projects/org.testng.eclipse/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/598/trunk/eclipse-projects/org.testng.eclipse/build.properties
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/598/trunk/eclipse-projects/org.testng.eclipse/feature.xml
+END

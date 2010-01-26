@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/607/trunk/test/src/test/alwaysrun
+END
+AlwaysRunTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/607/trunk/test/src/test/alwaysrun/AlwaysRunTest.java
+END
+AlwaysRunAfter1.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/test/src/test/alwaysrun/AlwaysRunAfter1.java
+END
+AlwaysRunBefore1.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/trunk/test/src/test/alwaysrun/AlwaysRunBefore1.java
+END
+AlwaysRunAfter2.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/test/src/test/alwaysrun/AlwaysRunAfter2.java
+END

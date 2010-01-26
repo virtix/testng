@@ -1,0 +1,26 @@
+K 9
+svk:merge
+V 117
+448e14d1-b346-3e42-b49b-5a0ce2423268:/testng/local:257
+bbd1331f-3d6f-ca47-b942-94d8a76b223a:/local/testng/trunk:12184
+K 10
+svn:ignore
+V 168
+test-output
+z_build
+temp-testng-customsuite.xml
+*.launch
+build
+test-output-tests
+*.jar
+javadocs
+other-jars
+*.zip
+*.iws
+.settings
+dtd
+TESTNG-5.9
+TESTNG-5.10*
+.classpath
+
+END

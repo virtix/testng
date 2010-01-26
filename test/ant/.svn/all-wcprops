@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/822/trunk/test/ant
+END
+DontOverrideSuiteNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/225/trunk/test/ant/DontOverrideSuiteNameTest.java
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/233/trunk/test/ant/testng.xml
+END
+MultipleThreadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/193/trunk/test/ant/MultipleThreadTest.java
+END
+NoPackageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/78/trunk/test/ant/NoPackageTest.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/822/trunk/test/ant/build.xml
+END

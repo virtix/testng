@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/301/trunk/test/src/test/regression/groupsordering
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/289/trunk/test/src/test/regression/groupsordering/A.java
+END
+B.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/289/trunk/test/src/test/regression/groupsordering/B.java
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/289/trunk/test/src/test/regression/groupsordering/testng.xml
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/301/trunk/test/src/test/regression/groupsordering/Base.java
+END

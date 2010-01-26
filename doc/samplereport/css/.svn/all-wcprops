@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/trunk/doc/samplereport/css
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/trunk/doc/samplereport/css/print.css
+END
+maven-base.css
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/trunk/doc/samplereport/css/maven-base.css
+END
+maven-classic.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/doc/samplereport/css/maven-classic.css
+END
+maven-theme.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/trunk/doc/samplereport/css/maven-theme.css
+END

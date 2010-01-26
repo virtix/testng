@@ -1,0 +1,55 @@
+root.dir=${basedir}
+
+build.dir=${root.dir}/build
+build.3rdparty.dir=${build.dir}/3rdparty
+build.maven-bundle.dir=${build.dir}/maven-bundle
+
+#classes=${build.dir}
+
+lib.dir=${basedir}/3rdparty
+src.dir=${basedir}/src
+example.dir=${basedir}/examples
+
+#
+# Jar files
+#
+beanshell.jar=bsh-2.0b4.jar
+
+#
+# Names of distributions
+#
+testng.basename=testng
+testng.version=5.12beta
+testng.jar=${testng.basename}-${testng.version}.jar
+sources.testng.jar=${testng.basename}-${testng.version}-sources.jar
+other.jars.dir=other-jars
+testng.nobsh.jar=${testng.basename}-${testng.version}-nobsh.jar
+
+testng.ibiblio.jar=${testng.basename}-${testng.version}-bundle.jar
+
+testng.zip=${testng.basename}-${testng.version}.zip
+
+testng.maven-bundle=${testng.basename}-${testng.version}-bundle.jar
+
+#
+# Test locations
+#
+test.location.msg=Test results can be found in\n\
+test/test-output/index.html
+
+#
+# Eclipse plug-in
+#
+testng-eclipse.dir=../testng-eclipse
+
+#
+# Maven plug-in version
+# Note, this version number is appended to the resulting plug-in jar
+#
+testng-maven.version=1.2
+
+#
+# JDK 1.4 for sanity checking before a distribution
+#
+java14.home=jdk-1.5.0_04
+#java14.home=c:/java/jdk-1.4.2_08

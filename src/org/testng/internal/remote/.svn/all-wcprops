@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/830/trunk/src/org/testng/internal/remote
+END
+SlavePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/830/trunk/src/org/testng/internal/remote/SlavePool.java
+END
+SocketLinkedBlockingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/820/trunk/src/org/testng/internal/remote/SocketLinkedBlockingQueue.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/833/trunk/src
+END
+testngtasks
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/28/trunk/src/testngtasks
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/820/trunk/src/pom.xml
+END
+testng-1.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/827/trunk/src/testng-1.0.dtd
+END
+testng-1.0.dtd.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/728/trunk/src/testng-1.0.dtd.html
+END

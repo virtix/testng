@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/281/trunk/test/src/test/interleavedorder
+END
+BaseTestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/test/src/test/interleavedorder/BaseTestClass.java
+END
+TestChild1.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/trunk/test/src/test/interleavedorder/TestChild1.java
+END
+TestChild2.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/trunk/test/src/test/interleavedorder/TestChild2.java
+END
+InterleavedInvocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/281/trunk/test/src/test/interleavedorder/InterleavedInvocationTest.java
+END
+testng-order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/trunk/test/src/test/interleavedorder/testng-order.xml
+END

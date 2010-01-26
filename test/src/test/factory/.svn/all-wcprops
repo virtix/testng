@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/793/trunk/test/src/test/factory
+END
+TestClassAnnotationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/test/src/test/factory/TestClassAnnotationTest.java
+END
+FactoryBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/762/trunk/test/src/test/factory/FactoryBase.java
+END
+FactoryInSuperClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/762/trunk/test/src/test/factory/FactoryInSuperClassTest.java
+END
+Sample2.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/trunk/test/src/test/factory/Sample2.java
+END
+FactoryOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/734/trunk/test/src/test/factory/FactoryOrderTest.java
+END
+FactoryWithInstanceInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/trunk/test/src/test/factory/FactoryWithInstanceInfoTest.java
+END
+FactoryBaseSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/762/trunk/test/src/test/factory/FactoryBaseSampleTest.java
+END
+FactoryOrderSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/734/trunk/test/src/test/factory/FactoryOrderSampleTest.java
+END
+OddTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/335/trunk/test/src/test/factory/OddTest.java
+END
+FactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/factory/FactoryTest.java
+END
+FactoryWithDataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/335/trunk/test/src/test/factory/FactoryWithDataProviderTest.java
+END
+FactoryWithDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/335/trunk/test/src/test/factory/FactoryWithDataProvider.java
+END
+FactoryOrderMainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/734/trunk/test/src/test/factory/FactoryOrderMainTest.java
+END
+FactoryInSeparateClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/test/src/test/factory/FactoryInSeparateClass.java
+END
+NestedFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/test/src/test/factory/NestedFactoryTest.java
+END
+FactoryChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/762/trunk/test/src/test/factory/FactoryChild.java
+END
+FactoryFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/753/trunk/test/src/test/factory/FactoryFailureTest.java
+END
+FactoryFailureSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/752/trunk/test/src/test/factory/FactoryFailureSampleTest.java
+END
+NestedStaticFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/test/src/test/factory/NestedStaticFactoryTest.java
+END
+MyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/test/src/test/factory/MyTest.java
+END
+FactoryWithInstanceInfoTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/test/src/test/factory/FactoryWithInstanceInfoTest2.java
+END
+FactoryTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/793/trunk/test/src/test/factory/FactoryTest2.java
+END
+VerifyFactoryWithInstanceInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/test/src/test/factory/VerifyFactoryWithInstanceInfoTest.java
+END
+Factory2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/test/src/test/factory/Factory2Test.java
+END
+VerifyFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/test/src/test/factory/VerifyFactoryTest.java
+END

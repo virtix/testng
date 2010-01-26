@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/test/src/test/testng59
+END
+Test1.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/test/src/test/testng59/Test1.java
+END
+Test2.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/test/src/test/testng59/Test2.java
+END
+testng-59.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/test/src/test/testng59/testng-59.xml
+END

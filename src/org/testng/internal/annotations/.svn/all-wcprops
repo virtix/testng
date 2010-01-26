@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/833/trunk/src/org/testng/internal/annotations
+END
+IBeforeClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IBeforeClass.java
+END
+JDK15AnnotationFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/830/trunk/src/org/testng/internal/annotations/JDK15AnnotationFinder.java
+END
+ConfigurationAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/ConfigurationAnnotation.java
+END
+JDK15TagFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/830/trunk/src/org/testng/internal/annotations/JDK15TagFactory.java
+END
+FactoryAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/FactoryAnnotation.java
+END
+DefaultAnnotationTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/DefaultAnnotationTransformer.java
+END
+BaseAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/BaseAnnotation.java
+END
+AfterSuiteAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/AfterSuiteAnnotation.java
+END
+IAnnotationTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAnnotationTransformer.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/833/trunk/src/org/testng/internal/annotations/Converter.java
+END
+BeforeSuiteAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/BeforeSuiteAnnotation.java
+END
+AnnotationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/830/trunk/src/org/testng/internal/annotations/AnnotationHelper.java
+END
+TestAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/TestAnnotation.java
+END
+DataProviderAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/DataProviderAnnotation.java
+END
+BaseBeforeAfter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/BaseBeforeAfter.java
+END
+IBeforeSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IBeforeSuite.java
+END
+IBaseBeforeAfter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IBaseBeforeAfter.java
+END
+ObjectFactoryAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/ObjectFactoryAnnotation.java
+END
+IAfterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAfterTests.java
+END
+ExpectedExceptionsAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/ExpectedExceptionsAnnotation.java
+END
+IAfterClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAfterClass.java
+END
+AnnotationConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/AnnotationConfiguration.java
+END
+TestOrConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/TestOrConfiguration.java
+END
+IAfterGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAfterGroups.java
+END
+IAfterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAfterTest.java
+END
+IBeforeGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IBeforeGroups.java
+END
+IBeforeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IBeforeTest.java
+END
+IAfterMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAfterMethod.java
+END
+IAnnotationFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAnnotationFinder.java
+END
+IBeforeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IBeforeMethod.java
+END
+Sets.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/Sets.java
+END
+IAfterSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/IAfterSuite.java
+END
+ITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/ITest.java
+END
+ParametersAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/820/trunk/src/org/testng/internal/annotations/ParametersAnnotation.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/112/trunk/bin
+END
+slave.bat
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/28/trunk/bin/slave.bat
+END
+master.bat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/28/trunk/bin/master.bat
+END
+junitconverter.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/trunk/bin/junitconverter.bat
+END
+testng.bat
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/112/trunk/bin/testng.bat
+END
+testng.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/28/trunk/bin/testng.sh
+END
+run-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/28/trunk/bin/run-tests.sh
+END

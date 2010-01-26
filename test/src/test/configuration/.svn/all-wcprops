@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/801/trunk/test/src/test/configuration
+END
+ExternalConfigurationClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ExternalConfigurationClass.java
+END
+ConfigurationGroups7SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups7SampleTest.java
+END
+BeforeMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/527/trunk/test/src/test/configuration/BeforeMethodTest.java
+END
+ConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationTest.java
+END
+BaseGroupsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/326/trunk/test/src/test/configuration/BaseGroupsTest.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/326/trunk/test/src/test/configuration/Base.java
+END
+SuiteFactoryOnceSample2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/801/trunk/test/src/test/configuration/SuiteFactoryOnceSample2Test.java
+END
+BeforeTestOrdering1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/test/src/test/configuration/BeforeTestOrdering1Test.java
+END
+BaseGroupsBSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/326/trunk/test/src/test/configuration/BaseGroupsBSampleTest.java
+END
+GroupsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/147/trunk/test/src/test/configuration/GroupsTest.java
+END
+BeforeClassThreadB.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/748/trunk/test/src/test/configuration/BeforeClassThreadB.java
+END
+BaseSuiteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/57/trunk/test/src/test/configuration/BaseSuiteTest.java
+END
+SuiteFactoryOnceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/801/trunk/test/src/test/configuration/SuiteFactoryOnceTest.java
+END
+BaseBeforeTestOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/test/src/test/configuration/BaseBeforeTestOrdering.java
+END
+ConfigurationGroupInvocationCountSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/144/trunk/test/src/test/configuration/ConfigurationGroupInvocationCountSampleTest.java
+END
+ConfigurationGroups2SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups2SampleTest.java
+END
+BeforeTestOrderingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/test/src/test/configuration/BeforeTestOrderingTest.java
+END
+ConfigurationInheritGroupsSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationInheritGroupsSampleTest.java
+END
+ConfigurationGroups4SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups4SampleTest.java
+END
+ConfigurationGroups6SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups6SampleTest.java
+END
+ConfigurationGroups8SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups8SampleTest.java
+END
+ConfigurationGroupBothSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/301/trunk/test/src/test/configuration/ConfigurationGroupBothSampleTest.java
+END
+MethodCallOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/trunk/test/src/test/configuration/MethodCallOrderTest.java
+END
+SuiteFactoryOnceSample1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/801/trunk/test/src/test/configuration/SuiteFactoryOnceSample1Test.java
+END
+BaseGroupsASampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/326/trunk/test/src/test/configuration/BaseGroupsASampleTest.java
+END
+BeforeTestOrdering2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/test/src/test/configuration/BeforeTestOrdering2Test.java
+END
+VerifySuiteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/test/src/test/configuration/VerifySuiteTest.java
+END
+BeforeClassThreadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/748/trunk/test/src/test/configuration/BeforeClassThreadTest.java
+END
+BeforeClassThreadA.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/748/trunk/test/src/test/configuration/BeforeClassThreadA.java
+END
+ReflectMethodParametrizedConfigurationMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/245/trunk/test/src/test/configuration/ReflectMethodParametrizedConfigurationMethodTest.java
+END
+ConfigurationWithParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationWithParameters.java
+END
+SuiteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/test/src/test/configuration/SuiteTest.java
+END
+ConfigurationGroups1SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups1SampleTest.java
+END
+MultipleBeforeGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/334/trunk/test/src/test/configuration/MultipleBeforeGroupTest.java
+END
+ConfigurationGroupDataProviderSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/144/trunk/test/src/test/configuration/ConfigurationGroupDataProviderSampleTest.java
+END
+ConfigurationGroups3SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups3SampleTest.java
+END
+Base3.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/trunk/test/src/test/configuration/Base3.java
+END
+ConfigurationGroups5SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/28/trunk/test/src/test/configuration/ConfigurationGroups5SampleTest.java
+END

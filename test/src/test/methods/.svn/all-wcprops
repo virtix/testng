@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/trunk/test/src/test/methods
+END
+SampleMethod1.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/methods/SampleMethod1.java
+END
+VerifyMethod1.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/test/src/test/methods/VerifyMethod1.java
+END

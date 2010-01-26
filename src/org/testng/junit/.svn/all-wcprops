@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/833/trunk/src/org/testng/junit
+END
+JUnitTestConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/833/trunk/src/org/testng/junit/JUnitTestConverter.java
+END
+JUnitMethodFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/832/trunk/src/org/testng/junit/JUnitMethodFinder.java
+END
+JUnitTestRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/832/trunk/src/org/testng/junit/JUnitTestRunner.java
+END
+JUnitDirectoryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/830/trunk/src/org/testng/junit/JUnitDirectoryConverter.java
+END
+JUnitUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/832/trunk/src/org/testng/junit/JUnitUtils.java
+END
+IJUnitTestRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/820/trunk/src/org/testng/junit/IJUnitTestRunner.java
+END

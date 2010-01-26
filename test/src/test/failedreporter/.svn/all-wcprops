@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/829/trunk/test/src/test/failedreporter
+END
+FailedReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/829/trunk/test/src/test/failedreporter/FailedReporterTest.java
+END
+FailedReporterSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/700/trunk/test/src/test/failedreporter/FailedReporterSampleTest.java
+END
+FailedReporter2SampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/828/trunk/test/src/test/failedreporter/FailedReporter2SampleTest.java
+END

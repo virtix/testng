@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/trunk/test/src/test/conffailure
+END
+ConfigurationFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/trunk/test/src/test/conffailure/ConfigurationFailure.java
+END
+ClassWithFailedBeforeTestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/test/src/test/conffailure/ClassWithFailedBeforeTestClass.java
+END
+ClassWithFailedBeforeTestClassVerification.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28/trunk/test/src/test/conffailure/ClassWithFailedBeforeTestClassVerification.java
+END
+ClassWithFailedBeforeSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/test/src/test/conffailure/ClassWithFailedBeforeSuite.java
+END
+ClassWithFailedBeforeSuiteVerification.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/28/trunk/test/src/test/conffailure/ClassWithFailedBeforeSuiteVerification.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/832/trunk/test
+END
+reports.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/413/trunk/test/reports.html
+END
+testng-single.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/827/trunk/test/testng-single.xml
+END
+testng-annconv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/192/trunk/test/testng-annconv.xml
+END
+testng_convert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/test/testng_convert.xml
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/820/trunk/test/testng.xml
+END
+testng-single2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/641/trunk/test/testng-single2.xml
+END
+factory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/28/trunk/test/factory.xml
+END
+global-result.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/trunk/test/global-result.txt
+END
+hosts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/trunk/test/hosts.properties
+END
+build-dogfood.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/220/trunk/test/build-dogfood.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/28/trunk/test/.cvsignore
+END
+build-sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/trunk/test/build-sample.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/822/trunk/test/build.xml
+END

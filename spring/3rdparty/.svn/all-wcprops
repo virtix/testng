@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/320/trunk/spring/3rdparty
+END
+spring-mock.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/320/trunk/spring/3rdparty/spring-mock.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/spring/3rdparty/commons-logging-1.0.4.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/320/trunk/spring/3rdparty/spring.jar
+END

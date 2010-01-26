@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/833/trunk/src/org/testng/remote/adapter
+END
+DefaultWorkerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/820/trunk/src/org/testng/remote/adapter/DefaultWorkerAdapter.java
+END
+RemoteResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/820/trunk/src/org/testng/remote/adapter/RemoteResultListener.java
+END
+IWorkerApadter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/820/trunk/src/org/testng/remote/adapter/IWorkerApadter.java
+END
+DefaultMastertAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/833/trunk/src/org/testng/remote/adapter/DefaultMastertAdapter.java
+END
+IMasterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/820/trunk/src/org/testng/remote/adapter/IMasterAdapter.java
+END

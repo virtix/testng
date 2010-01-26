@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/657/trunk/test/src/test/jarpackages
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/657/trunk/test/src/test/jarpackages/testng.xml
+END
+JarPackagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/657/trunk/test/src/test/jarpackages/JarPackagesTest.java
+END

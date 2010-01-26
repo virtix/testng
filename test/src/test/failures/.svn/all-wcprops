@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/245/trunk/test/src/test/failures
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/test/src/test/failures/Child.java
+END
+BaseFailuresTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/test/src/test/failures/BaseFailuresTest.java
+END
+DependentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/trunk/test/src/test/failures/DependentTest.java
+END
+Base0.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/test/src/test/failures/Base0.java
+END
+FailuresTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/245/trunk/test/src/test/failures/FailuresTest.java
+END
+Base1.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/test/src/test/failures/Base1.java
+END

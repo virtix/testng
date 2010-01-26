@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/833/trunk/src/org/testng/xml
+END
+ClassSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/820/trunk/src/org/testng/xml/ClassSuite.java
+END
+SuiteGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/820/trunk/src/org/testng/xml/SuiteGenerator.java
+END
+XmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/833/trunk/src/org/testng/xml/XmlTest.java
+END
+XmlMethodSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/820/trunk/src/org/testng/xml/XmlMethodSelector.java
+END
+LaunchSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/831/trunk/src/org/testng/xml/LaunchSuite.java
+END
+XmlInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/827/trunk/src/org/testng/xml/XmlInclude.java
+END
+XmlClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/831/trunk/src/org/testng/xml/XmlClass.java
+END
+XmlSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/833/trunk/src/org/testng/xml/XmlSuite.java
+END
+XmlPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/833/trunk/src/org/testng/xml/XmlPackage.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/832/trunk/src/org/testng/xml/Parser.java
+END
+TestNGContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/833/trunk/src/org/testng/xml/TestNGContentHandler.java
+END
